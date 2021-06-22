@@ -1,0 +1,1 @@
+Programa desenvolvido na disciplina Matemática Discreta II que busca a melhor solução para o Problema da Mochila (Knapsack problem) realizando podas nos ramos não promissores por meio do calculo de limitante superior.
